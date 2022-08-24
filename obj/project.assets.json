@@ -7645,11 +7645,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AuditManagementSystem\\Audit-Management-System_backend\\Audit-Management-system-master\\HomeServiceTests\\HomeServiceTests.csproj",
+      "projectUniqueName": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\HomeServiceTests\\HomeServiceTests.csproj",
       "projectName": "HomeServiceTests",
-      "projectPath": "C:\\AuditManagementSystem\\Audit-Management-System_backend\\Audit-Management-system-master\\HomeServiceTests\\HomeServiceTests.csproj",
+      "projectPath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\HomeServiceTests\\HomeServiceTests.csproj",
       "packagesPath": "C:\\Users\\916009\\.nuget\\packages\\",
-      "outputPath": "C:\\AuditManagementSystem\\Audit-Management-System_backend\\Audit-Management-system-master\\HomeServiceTests\\obj\\",
+      "outputPath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\HomeServiceTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7669,8 +7669,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\AuditManagementSystem\\Audit-Management-System_backend\\Audit-Management-system-master\\HomeService\\HomeService.csproj": {
-              "projectPath": "C:\\AuditManagementSystem\\Audit-Management-System_backend\\Audit-Management-system-master\\HomeService\\HomeService.csproj"
+            "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\HomeService\\HomeService.csproj": {
+              "projectPath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\HomeService\\HomeService.csproj"
             }
           }
         }
